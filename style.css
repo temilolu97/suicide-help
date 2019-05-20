@@ -1,0 +1,12 @@
+.bg-light{
+    background-color: #ffffff!important;
+}
+h1{
+    font-weight:700!important;
+}
+.pb_outline-light{
+    border: 2px solid white;
+}
+#section-testimonials{
+    margin-bottom:-20px!important;
+}
